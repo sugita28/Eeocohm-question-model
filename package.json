@@ -1,0 +1,33 @@
+{
+  "name": "eeohm-model-question",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "description": "NEB Class 12 Computer Science Question Bank with Gamified Learning",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sugita28/Eeocohm-question-model.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sugita28/Eeocohm-question-model/issues"
+  },
+  "homepage": "https://github.com/sugita28/Eeocohm-question-model#readme",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.5"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.4"
+  }
+}
